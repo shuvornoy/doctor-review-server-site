@@ -146,7 +146,7 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`Services Review server running on ${port}`);
+    console.log(`Services Review server running the on ${port}`);
 })
 
 
