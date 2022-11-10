@@ -1,16 +1,22 @@
 {
-  "name": "review-server",
+  "name": "modul-67-assignment-server-sit",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"# b6a11-service-review-server-side-shuvornoy\"",
   "main": "index.js",
   "scripts": {
-    "start": "index.js",
-    "build": "index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Porgramming-Hero-web-course/b6a11-service-review-server-side-shuvornoy.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Porgramming-Hero-web-course/b6a11-service-review-server-side-shuvornoy/issues"
+  },
+  "homepage": "https://github.com/Porgramming-Hero-web-course/b6a11-service-review-server-side-shuvornoy#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
